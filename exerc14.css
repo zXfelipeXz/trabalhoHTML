@@ -1,0 +1,46 @@
+body{
+    
+    background-image: url(https://i.pinimg.com/originals/57/2a/e1/572ae1f8f5258577f1df23ef0b39fa5e.jpg);
+    background-size: cover;
+    
+}
+
+.container{
+    
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.menbro{
+    border: 3px solid  rgba(5, 99, 5, 0.548);
+    border-radius: 50px;
+    margin: 20px;
+    background-color:rgba(236, 223, 204, 0.788);
+    width: 550px;
+    height: 550px;
+    text-align: center;
+}
+
+
+
+img{
+    
+    margin: 15px;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 8px 8px 8px rgb(0, 70, 0);
+}
+
+header{
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: rgb(82, 107, 39);
+}

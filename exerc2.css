@@ -1,0 +1,66 @@
+img{
+    background-size: cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Naomi_Bennett.jpg/250px-Naomi_Bennett.jpg);
+    height: 170px;
+    width: 200px;
+    border-radius: 100%;
+    display: block;
+    margin: auto;
+}
+
+
+.bloco1{   
+        background-image: url(https://img.freepik.com/fotos-premium/estrelas-no-ceu-noturno-ceu-estrelado-girando-em-torno-da-terra_250994-2116.jpg);    
+        position: absolute; 
+        display: block;
+        margin: auto; 
+        width: 250px; 
+        height: 200px; 
+        border-width: 2px; 
+        border: solid black; 
+        right: 100px;
+}
+
+
+.bloco2{
+        background-image: url(https://img.freepik.com/fotos-premium/estrelas-no-ceu-noturno-ceu-estrelado-girando-em-torno-da-terra_250994-2116.jpg);
+        position:absolute; 
+        display: block;
+        margin: auto; 
+        width: 250px; 
+        height: 200px; 
+        border-width: 2px; 
+        border: solid black; 
+        left: 100px;
+    }    
+
+h4{
+        text-align: center;
+        color: aqua;
+}
+
+.pag{  
+    color: aqua;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    border: 5px solid color(from color srgb r g b);
+    background-size: cover;
+    background-image: url(https://img.freepik.com/fotos-premium/estrelas-no-ceu-noturno-ceu-estrelado-girando-em-torno-da-terra_250994-2116.jpg);    
+}
+
+p,a{  
+    color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+body{
+    background-image: url(https://cdn.steamstatic.com/steamcommunity/public/images/items/506470/61d490fdaf4386c2936b902a0d3b7e3f4d89c26c.jpg);
+    display: block;
+    margin: auto;
+    background-size: cover;
+    
+}

@@ -1,0 +1,26 @@
+div{
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/21/02/00/user-2160923_1280.png);
+    text-align: center;
+    margin: auto;
+    width: 600px;
+    height: 350px;
+    background-size: cover;
+    border-radius: 30px;
+}
+
+body{
+    background-image: url(https://media.istockphoto.com/id/811268074/pt/foto/laptop-computer-desktop-pc-human-hand-office-soft-focus-picture-vintage-concept.jpg?s=1024x1024&w=is&k=20&c=uEhOHjipn-ao4ZMESxqGPBzVx0jVh5cpPYZYfRFzPsM=);
+
+    display: flex;
+    padding: 130px;
+    background-size: cover;
+}
+
+button,input{
+    border-radius: 40px;
+    border-color: turquoise ;
+    box-shadow: 6px 4px turquoise;
+    background-color: rgb(57, 202, 178);
+    font-size: 15px;
+}
+

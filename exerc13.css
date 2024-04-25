@@ -1,0 +1,98 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/ae/e9/56/aee956935ac0a5320a3f105a0c8247da.jpg);
+    background-size: cover;
+   
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+h1{
+
+}
+
+
+header {
+    color: rgb(255, 74, 110);
+    font-size: 20px;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    height: 100px;
+    width: 1000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+   
+}
+
+
+
+.container{
+    /* background-color:rgb(212, 212, 212) ; */
+
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+img {
+    margin: 15px;
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+    border: 3px outset rgb(26, 78, 78);
+}
+
+
+.produto{
+    border-radius: 50px;
+    color: rgb(10, 58, 58);
+    text-align: center;
+    margin: 10px;
+    width: 500px;
+    height: 400px;
+    background-color: rgba(255, 76, 76, 0.589);
+}
+
+
+
+p {
+    color: rgb(90, 22, 22);
+    font-size: 16px; 
+}
+
+
+span {
+    color: rgb(9, 78, 9);
+}
+
+
+del {
+    color: rgb(155, 15, 15);
+}
+
+
+h3 {
+    color: black;
+}
+
+
+button {
+
+    box-sizing: border-box;
+    background-color: rgb(189, 20, 20);
+    border-radius: 30px;
+    font-size: 18px;
+    border: none;
+}
+
+button:hover{
+    transition: 3s;
+    border: 3px solid rgb(87, 3, 3);
+}

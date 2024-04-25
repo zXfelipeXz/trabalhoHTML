@@ -1,0 +1,51 @@
+.bloco1{
+    
+    text-align: center;
+    background-size: cover;
+    color:black;
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    
+    border-radius: 100px;   
+}
+
+
+ul{
+    
+    list-style-position: inside;
+    color: black;
+    list-style-type:armenian;
+    
+}
+
+.bloco2{
+    
+    
+    text-align: center;
+    color: rgb(185, 158, 0);
+    background-image: url(https://cotuca.unicamp.br/wp-content/uploads/2019/04/androidbrillothings01.jpg);
+    width: 1000px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    background-size: cover;
+    border-radius: 20px;
+    
+}
+
+body{
+    background-image: url(https://blog.certisign.com.br/wp-content/uploads/2019/10/Profissional-de-TI.jpg);
+    width: 1366px;
+    height: 768px;
+    background-size: cover;
+}
+
+.title{
+    color:rgb(119, 87, 7);
+}
+
+a {
+    color: black;
+}
