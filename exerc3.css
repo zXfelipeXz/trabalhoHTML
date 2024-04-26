@@ -1,0 +1,91 @@
+body{
+    margin: 20px;
+    padding: 0px;
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-de-wireframe-geometrico-abstrato_52683-59421.jpg);
+    background-size: cover;
+
+}
+
+header{
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(17, 73, 179);
+}
+
+.text{
+    color: rgb(0, 89, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 40px;
+    background-color:  rgba(181, 203, 243, 0.781);;
+    display: block;
+    margin: auto;
+    width: 900px;
+    height: 400px;
+    text-align: center;
+}
+
+
+.grid-container{
+    
+    column-gap: 30px;
+    row-gap: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+
+
+.site10, .site2, .site12, .site14, .site8, .site9 {
+    width: 400px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    
+
+}
+
+
+
+img {
+    margin: 20px;
+    border-radius: 90px;
+    width: 200px;
+    height: 200px;
+}
+
+
+.site10{
+    background-image: url(img/site10.PNG);
+    background-size: cover;
+    
+}
+
+
+.site2{
+    background-image: url(img/site2.PNG);
+    background-size: cover;
+}
+
+
+.site8{
+    background-image: url(img/site8.PNG);
+    background-size: cover;
+}
+.site9{
+    background-image: url(img/site9.PNG);
+    background-size: cover;
+}
+.site12{
+    background-image: url(img/site12.PNG);
+    background-size: cover;
+}
+.site14{
+    background-image: url(img/site14.PNG);
+    background-size: cover;
+}
